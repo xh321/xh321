@@ -1,6 +1,8 @@
-Hi, 我是 XiaoHe321！
-
 ![我既开始，我必完成；我既决定，我必贯彻。](https://raw.githubusercontent.com/xh321/xh321/main/imgs/logo.png)
+
+Hi, 我是 XiaoHe321！
+==================
+个人README仍在建设中~
 
 ![](https://github-readme-stats.vercel.app/api?username=xh321&show_icons=true&theme=chartreuse-dark)
 
